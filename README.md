@@ -1,4 +1,4 @@
-Main Heading Font Size - 34px
+Main Heading Font Size - 34px<br>
 Sub Heading Font Size - 24px
 Paragraph (List) - 14px
 Heading Font Family - Nunito Bold
