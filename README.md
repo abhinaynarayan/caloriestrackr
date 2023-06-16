@@ -1,12 +1,12 @@
 Main Heading Font Size - 34px<br>
-Sub Heading Font Size - 24px
-Paragraph (List) - 14px
-Heading Font Family - Nunito Bold
-Paragraph Font Family - Nunito
-container width - 1102px
-container height - 520px
-left and right margin - 49px
-top and bottom margin - 54px
-alternate page bg color - #F1FAEE
-button color code - #0080CB
-Navbar link and Title Font Size - 16px
+Sub Heading Font Size - 24px<br>
+Paragraph (List) - 14px<br>
+Heading Font Family - Nunito Bold<br>
+Paragraph Font Family - Nunito<br>
+container width - 1102px<br>
+container height - 520px<br>
+left and right margin - 49px<br>
+top and bottom margin - 54px<br>
+alternate page bg color - #F1FAEE<br>
+button color code - #0080CB<br>
+Navbar link and Title Font Size - 16px<br>
